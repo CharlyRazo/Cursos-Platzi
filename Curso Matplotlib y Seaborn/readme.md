@@ -7,6 +7,7 @@ En este curso se aprendio que es Matplotlib y diferentes aspectos:
 - Colores y estilos
 - Otros gráficos
 - Tamaños
+
 Mientras que con seaborn trabajamos:
 - Estructura
 - Parámetros más usados
